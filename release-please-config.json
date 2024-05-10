@@ -1,0 +1,19 @@
+{
+  "include-v-in-tag": true,
+  "include-component-in-tag": true,
+  "separate-pull-requests": false,
+  "release-type": "go",
+  "tag-separator": "/",
+  "packages": {
+    "pkg1": {
+      "package-name": "pkg1"
+    },
+    "pkg2": {
+      "package-name": "pkg2"
+    },
+    "pkg3": {
+      "package-name": "pkg3"
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
