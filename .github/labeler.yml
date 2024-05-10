@@ -2,8 +2,8 @@
 documentation:
 - changed-files:
   - any-glob-to-any-file:
-    - README.md
-    - */README.md
+    - 'README.md'
+    - '**/README.md'
 
 # Add 'pkg1' label to any change to pkg1 package.
 pkg1:
