@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/iamsumit/go-monorepo/compare/pkg1/v1.2.0...pkg1/v1.2.1) (2024-05-10)
+
+
+### Bug Fixes
+
+* **gm-02:** updated readme. ([d76482f](https://github.com/iamsumit/go-monorepo/commit/d76482f2bc8256c860e93a6a4464a82cdbdbe526))
+
 ## [1.2.0](https://github.com/iamsumit/go-monorepo/compare/pkg1/v1.1.0...pkg1/v1.2.0) (2024-05-10)
 
 
