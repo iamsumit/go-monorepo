@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/iamsumit/go-monorepo/compare/pkg1/v1.2.1...pkg1/v1.3.0) (2024-05-16)
+
+
+### Features
+
+* **GM-00:** updated readme file. ([523d0b4](https://github.com/iamsumit/go-monorepo/commit/523d0b435bb5972deaf43d4a3cefa81f56e10d1c))
+* updated the pkg1. ([64fa8a0](https://github.com/iamsumit/go-monorepo/commit/64fa8a0e56450e1f52ea02169bbdc071ecc527dd))
+
 ## [1.2.1](https://github.com/iamsumit/go-monorepo/compare/pkg1/v1.2.0...pkg1/v1.2.1) (2024-05-10)
 
 
